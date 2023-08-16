@@ -7,5 +7,6 @@ public class Hello {
         System.out.println("Git3");
         System.out.println("github push commit");
         System.out.println("github pull commit");
+        System.out.println("gitee push commit");
     }
 }
