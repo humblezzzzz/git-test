@@ -8,5 +8,6 @@ public class Hello {
         System.out.println("github push commit");
         System.out.println("github pull commit");
         System.out.println("gitee push commit");
+        System.out.println("gitee pull commit");
     }
 }
